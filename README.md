@@ -20,6 +20,10 @@ You can export both:
 - Time entries: the thing you actually start and stop tracking manually. Exported in csv
 - Timeline: the app and website activity. This is what we are interested in. Exported in json
 
+Problems:
+- Lacks automatic categorization of activities
+- Does not seem to track idle time from computer at all
+
 ### TODOs
 
 - [ ] Install and track in work computer and phone, too
